@@ -1,0 +1,3 @@
+[submodule "camp_db"]
+	path = camp_db
+	url = https://gitlab.com/pkp1/camp_db.git
