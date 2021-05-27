@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Setup](#setup)
-* [Project status](#project status)
+* [Project status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](*contact)
 
@@ -17,7 +17,7 @@ Project is created with:
 - MySQL 8.0.22
 - JDBC 
 ## Features 
-- Registration like a Admin, Trener, Parents or Child 
+- Registration like an Admin, Trainer, Parents or Child 
 - Login 
 - Edit profiles
 - Creating a new Camp
@@ -25,7 +25,7 @@ Project is created with:
 - Awarding and receiving badges
 ## Setup
 - Clone this repo to your desktop and run npm install to install all the dependencies.
-- Download our mySQL [(Database dump file)](https://gitlab.com/pkp1/camp_db) and import schema using name "camp".
+- Download our mySQL [(Database dump file)](https://github.com/pawelwrutkowski/CampMaster_DB) and import schema using name "camp".
 - At the end update file db.properties - change password.
 ## Project status
 Project is: no longer being worked on. The project was to be just an exercise and it did the job.
