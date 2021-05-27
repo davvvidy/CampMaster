@@ -33,8 +33,8 @@ Project is: no longer being worked on. The project was to be just an exercise an
 This project was inspired by the desire to create something new, completely from scratch.
 ## Contact
 Created by 
-- Przemyslaw Dawidowski - @zoluch 
-- Paweł Rutkowski - @pwrutkowski
-- Kasia Przybylska - @Kate007
+- Przemyslaw Dawidowski - Github/Gitlab - @davvvidy / @zoluch
+- Paweł Rutkowski - Github/Gitlab @pawelwrutkowski / @pwrutkowski
+- Kasia Przybylska - Github/Gitlab @Kateee07 / @Kate007
 
 Feel free to contact us!
